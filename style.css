@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#app {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.progress {
+    height: 45px;
+}
